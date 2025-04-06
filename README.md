@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavle Krstić</h1>
 <h3 align="center">An undergraduate Data Science Major from FTN, Novi Sad, Serbia</h3>
 
-- 🔭 I’m currently working on [ISA-project](https://github.com/LukaStjc/Isa-project)
 
 - 📫 How to reach me **pavlekrstic010@gmail.com**
 
